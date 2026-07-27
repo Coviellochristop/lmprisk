@@ -18,3 +18,8 @@ Static, GitHub-ready website for LMP Alternative Risk.
 5. Select the `main` branch and `/ (root)`, then save.
 
 The site uses Google Fonts and one externally hosted hero image, so those assets require an internet connection. For a fully self-contained deployment, download the hero image into an `assets` folder and update its path in `index.html`.
+
+
+## Branding
+
+The supplied LMP logo is stored at `assets/lmp-logo.jpg` and displayed in the site header.
